@@ -1,0 +1,66 @@
+
+.shoppingItem{
+  display: flex;
+  margin: 40px 0;
+}
+
+.shopImageBox{
+  width: 150px;
+  height: 8rem;
+  
+}
+
+.shoppingBox1{
+  display: flex;
+  width: 50%;
+}
+
+.shopImageBox img{
+   width: 100%;
+   object-fit: cover;
+   height: 100%;
+   object-fit: scale-down;
+}
+
+.shoppingBox2{
+  width: 50%;
+  display: flex;
+  justify-content: space-between;
+}
+
+
+.shoppingInfo{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  margin-left: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

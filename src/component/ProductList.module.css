@@ -1,0 +1,12 @@
+.list-data{
+    margin-top: 40px;
+    padding: 0 40px;
+}
+
+.nav{
+    display: flex;
+    list-style-type: none;
+    flex-wrap: wrap;
+}
+
+

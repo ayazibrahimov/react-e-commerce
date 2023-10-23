@@ -1,0 +1,41 @@
+.nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 40px;
+    padding-top: 20px;
+}
+
+.basket{
+    display: flex;
+    /* justify-content: center; */
+    gap: 20px;
+}
+
+b{
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+}
+
+b svg{
+    margin-right: 10px;
+    color: black; 
+}
+
+.navLink{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.count{
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
+    padding: 4px 12px;
+    background-color: #DE3D31;
+    border-radius: 10px;
+    margin-left: 10px;
+}
+
